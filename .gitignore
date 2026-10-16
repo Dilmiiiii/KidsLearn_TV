@@ -1,0 +1,14 @@
+# Xcode
+build/
+DerivedData/
+*.xcuserstate
+xcuserdata/
+*.xcuserdatad/
+*.xccheckout
+*.moved-aside
+
+# XcodeGen output
+KidsLearnTV.xcodeproj/
+
+# macOS
+.DS_Store
